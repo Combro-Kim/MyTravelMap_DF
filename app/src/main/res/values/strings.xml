@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DF_TM</string>
+    <string name="home">홈</string>
+    <string name="categori">카테고리</string>
+    <string name="social">소셜</string>
+    <string name="myPage">마이페이지</string>
+
+    <string name="CLIENT_ID">gothfnnqt7</string>
+</resources>

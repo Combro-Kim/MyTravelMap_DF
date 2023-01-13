@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/MainMap"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/category"
+        android:icon="@drawable/ic_baseline_category_24"
+        android:title="@string/categori"/>
+    <item
+        android:id="@+id/social"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="@string/social"/>
+    <item
+        android:id="@+id/event"
+        android:icon="@drawable/ic_baseline_emoji_events_24"
+        android:title="이벤트"/>
+    <item
+        android:id="@+id/myPage"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:title="@string/myPage"/>
+</menu>
